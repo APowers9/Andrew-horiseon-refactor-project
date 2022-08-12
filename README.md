@@ -4,6 +4,6 @@ This project entailed reviewing the code for a website and making changes to bet
 
 ![Screengrab of Final Website](./assets/images/Module%201%20Website%20Screengrab.png "Screengrab of Final Website")
 
-[Link to Deployed Application](https://apowers9.github.io/horiseon-refactor-project/#social-media-marketing)
+[Link to Deployed Application](https://apowers9.github.io/Andrew-horiseon-refactor-project/#social-media-marketing)
 
 01-html-git-css
